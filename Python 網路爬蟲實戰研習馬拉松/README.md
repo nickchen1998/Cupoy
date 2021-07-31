@@ -6,3 +6,6 @@
 3. 反爬蟲機制的處理 (修改 header、驗證碼處理、第三方 IP 與代理伺服器...等)
 
 ## 無法開啟 ipynd 檔案
+1. 將檔案的 github 網址複製
+2. 前往 https://nbviewer.jupyter.org/
+3. 將剛剛複製的網址貼上即可查閱
