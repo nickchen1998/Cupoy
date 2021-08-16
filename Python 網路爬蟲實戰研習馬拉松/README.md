@@ -9,3 +9,6 @@
 1. 將檔案的 github 網址複製
 2. 前往 https://nbviewer.jupyter.org/
 3. 將剛剛複製的網址貼上即可查閱
+
+## 參加證明
+![Python 網路爬蟲實戰研習馬拉松完賽證明](https://user-images.githubusercontent.com/61369035/129555869-edbe71f1-7cf7-4c73-9546-cbf7a645f424.jpg)
