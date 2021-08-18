@@ -5,6 +5,7 @@
 1. Python 網路爬蟲實戰研習馬拉松
 2. AIOT 智慧物聯網學習馬拉松
 3. Part1 - NLP 經典機器學習馬拉松
+4. Python 實戰題庫特訓營
 
 ## 無法開啟 ipynd 檔案
 1. 將檔案的 github 網址複製
